@@ -1,0 +1,17 @@
+{
+  "candidatas": [
+    {
+      "arquivo": "midia/cand-01.jpg",
+      "largura": 1360,
+      "altura": 907,
+      "origem": "https://pages.greatpages.com.br/www.clinicapeixoto.com.br-dentista-em-londrina/1784899288/imagens/desktop/3620077_1_17848975396a636003e9e8e.webp"
+    },
+    {
+      "arquivo": "midia/cand-02.jpg",
+      "largura": 350,
+      "altura": 353,
+      "origem": "https://pages.greatpages.com.br/www.clinicapeixoto.com.br-dentista-em-londrina/1784899288/imagens/desktop/3620077_1_17848975396a636003ea356519891868.webp"
+    }
+  ],
+  "folha": "midia/folha.png"
+}

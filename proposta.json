@@ -1,0 +1,243 @@
+{
+  "slug": "odontologia-peixoto",
+  "negocio": {
+    "nome": "Odontologia Peixoto",
+    "logo": "brand/logo.png",
+    "whatsapp": "554337710399",
+    "telefone": "(43) 3771-0399",
+    "unidades": [
+      {
+        "bairro": "Centro · Londrina",
+        "endereco": "Av. Juscelino Kubitschek, 3131 – Centro, Londrina – PR, 86010-160",
+        "telefone": "(43) 3771-0399",
+        "horario": "Seg a sex, 7h30 às 20h · Sáb, 8h às 13h"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#6B500E",
+    "brand2": "#4A360A",
+    "ink": "#242424",
+    "bg": "#FFFEFB",
+    "pulse": "#C49B21",
+    "radius": "6px",
+    "registro": "editorial",
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "Manrope",
+    "tomHero": "escuro",
+    "tomCorpo": "claro"
+  },
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          { "texto": "Tratamentos", "href": "#tratamentos" },
+          { "texto": "A casa", "href": "#a-casa" },
+          { "texto": "Dentista", "href": "#equipe" },
+          { "texto": "Perguntas", "href": "#faq" },
+          { "texto": "Onde fica", "href": "#unidades" }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Centro · Londrina",
+        "h1": "Implante, lentes e alinhadores",
+        "lead": "Clínica odontológica na Avenida Juscelino Kubitschek, aberta até as 20h. O Dr. Maycon Peixoto é especialista em endodontia, implantodontia e periodontia, e a avaliação é o primeiro passo.",
+        "cta": "Agendar avaliação",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "selo": "Nota 4,8 no Google · 541 avaliações · ",
+        "cardTitulo": "Agende sua avaliação",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Implante dentário",
+          "Prótese protocolo",
+          "Lentes de contato dental",
+          "Alinhadores invisíveis",
+          "Aparelho ortodôntico",
+          "Clareamento",
+          "Harmonização facial",
+          "Limpeza"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "faixa",
+      "data": {
+        "titulo": "A Peixoto em quatro números",
+        "itens": [
+          { "valor": "4,8", "rotulo": "de nota no Google" },
+          { "valor": "541", "rotulo": "avaliações no Google", "contar": 541 },
+          { "valor": "20h", "rotulo": "horário de fechamento, de segunda a sexta", "contar": 20 },
+          { "valor": "6", "rotulo": "dias de atendimento por semana", "contar": 6 }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "A clínica",
+        "citacao": "Cada paciente começa pela avaliação, e não por um pacote pronto.",
+        "autor": "Odontologia Peixoto",
+        "texto": [
+          "Uma clínica no Centro de Londrina, dirigida pelo Dr. Maycon Peixoto, com atendimento particular. É na avaliação que o dentista olha o seu caso e diz o que faz sentido tratar, e em que ordem.",
+          "Implante, prótese protocolo, lentes, alinhadores, aparelho, clareamento, limpeza e harmonização facial. Quando o tratamento muda de fase, você continua no mesmo endereço."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "O que a Peixoto trata",
+        "lead": "Do dente que se perdeu ao sorriso que você quer mudar. A indicação sai da avaliação.",
+        "itens": [
+          {
+            "nome": "Implante dentário",
+            "descricao": "Repõe um dente perdido com um implante próprio, sem apoiar a peça nos dentes vizinhos. A avaliação diz se há osso suficiente e qual é o caminho.",
+            "icone": "dente"
+          },
+          {
+            "nome": "Prótese protocolo",
+            "descricao": "Prótese fixa apoiada em implantes para quem perdeu os dentes de uma arcada inteira. Mastigar e sorrir sem depender de dentadura.",
+            "icone": "osso"
+          },
+          {
+            "nome": "Lentes de contato dental",
+            "descricao": "Lâminas finas aplicadas sobre os dentes para mudar cor, formato e tamanho do sorriso, com o planejamento feito antes.",
+            "icone": "estrela"
+          },
+          {
+            "nome": "Alinhadores invisíveis e aparelho",
+            "descricao": "Alinha dentes e mordida, com alinhadores transparentes ou aparelho ortodôntico, conforme o caso. O acompanhamento acontece durante todo o tratamento.",
+            "icone": "check"
+          },
+          {
+            "nome": "Clareamento e limpeza",
+            "descricao": "A limpeza remove placa e tártaro. O clareamento clareia o tom dos dentes, e a avaliação define se ele é indicado para você.",
+            "icone": "sol"
+          },
+          {
+            "nome": "Harmonização facial",
+            "descricao": "Procedimentos para equilibrar os traços do rosto, com avaliação individual antes de qualquer aplicação.",
+            "icone": "rosto"
+          }
+        ]
+      }
+    },
+    { "custom": "blocos/a-casa.html" },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Do primeiro contato ao retorno",
+        "itens": [
+          {
+            "titulo": "Mensagem ou ligação",
+            "texto": "Você conta o que procura e escolhe o dia e o horário da avaliação.",
+            "icone": "conversa"
+          },
+          {
+            "titulo": "Avaliação",
+            "texto": "O dentista examina a sua boca e explica as opções de tratamento, na ordem em que fazem sentido.",
+            "icone": "estetoscopio"
+          },
+          {
+            "titulo": "Tratamento",
+            "texto": "Implante, lentes, alinhadores ou limpeza: o procedimento acontece na própria clínica, no Centro.",
+            "icone": "dente"
+          },
+          {
+            "titulo": "Retorno e manutenção",
+            "texto": "Implantes, próteses e alinhadores pedem revisões periódicas. É nessa etapa que o tratamento se mantém ao longo dos anos, e a clínica avisa quando chega a vez de voltar.",
+            "icone": "agenda"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpo-clinico",
+      "variant": "monograma",
+      "data": {
+        "titulo": "Quem atende",
+        "itens": [
+          {
+            "nome": "Maycon Peixoto",
+            "registro": "CRO-PR 22108",
+            "especialidade": "Endodontia, implantodontia e periodontia",
+            "foto": "midia/dr-maycon.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "colunas",
+      "data": {
+        "titulo": "Antes de agendar",
+        "itens": [
+          {
+            "p": "Preciso de avaliação antes de qualquer procedimento?",
+            "r": "Sim. É a avaliação que define qual tratamento faz sentido para o seu caso. Por isso ela é o primeiro passo."
+          },
+          {
+            "p": "A clínica atende por convênio ou SUS?",
+            "r": "Não. O atendimento é particular, e a clínica não realiza tratamentos gratuitos."
+          },
+          {
+            "p": "Qual a diferença entre implante e prótese protocolo?",
+            "r": "O implante repõe um dente. A prótese protocolo é uma prótese fixa que repõe os dentes de uma arcada inteira, apoiada em implantes. Qual serve para você é decisão da avaliação."
+          },
+          {
+            "p": "Que horários a clínica atende?",
+            "r": "De segunda a sexta, das 7h30 às 20h, e aos sábados, das 8h às 13h."
+          },
+          {
+            "p": "Tem estacionamento?",
+            "r": "Sim, a clínica tem estacionamento próprio, na frente do prédio, no Centro."
+          },
+          {
+            "p": "Como agendo a avaliação?",
+            "r": "Pela mensagem, ou pelo telefone (43) 3771-0399."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "Onde fica a Peixoto",
+        "imagem": "midia/fachada.jpg"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Mande uma mensagem e escolha o horário. A clínica atende de segunda a sábado, no Centro de Londrina.",
+        "cta": "Agendar avaliação"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "aviso": "Proposta de site de demonstração, não é o site oficial da clínica. Todo procedimento é indicado após avaliação clínica, e os resultados variam de paciente para paciente."
+      }
+    }
+  ]
+}
